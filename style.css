@@ -88,7 +88,7 @@ button:hover {
   align-items: center;
   position: relative;
   border-radius: 25px;
-  background: url(/project_01_multiple/images/mobile_bg.png);
+  background: url("/project_01_multiple/images/mobile_bg.png");
   background-position: right top;
   background-repeat: repeat;
   padding: 0px;
